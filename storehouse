@@ -1,0 +1,4 @@
+{ "storeHouse": [ 
+{ "sourceName": "自建1", "sourceUrl": "https://raw.iqiq.io/liu673cn/box/main/dc.txt" }, 
+{ "sourceName": "自建2", "sourceUrl": "https://raw.iqiq.io/liu673cn/box/main/dc.txt" }
+] }
