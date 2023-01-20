@@ -1,3 +1,4 @@
 { "storeHouse": [ 
-{ "sourceName": "自建1", "sourceUrl": "https://raw.githubusercontent.com/hihi427/Tvbox/main/1" }
+{ "sourceName": "自建1", "sourceUrl": "https://raw.githubusercontent.com/hihi427/Tvbox/main/1" },
+{ "sourceName": "自建1", "sourceUrl": "https://raw.githubusercontent.com/hihi427/Tvbox/main/x" }
 ] }
